@@ -1,0 +1,39 @@
+02:34:52 **** Incremental Build of configuration Debug for project Semaphore ****
+make -j16 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'StartDefaultTask':
+../Core/Src/main.c:290:55: warning: implicit declaration of function 'strlen' [-Wimplicit-function-declaration]
+  290 |           HAL_UART_Transmit(&huart2, (uint8_t *)str1, strlen(str1), 100);
+      |                                                       ^~~~~~
+../Core/Src/main.c:22:1: note: include '<string.h>' or provide a declaration of 'strlen'
+   21 | #include "cmsis_os.h"
+  +++ |+#include <string.h>
+   22 | 
+../Core/Src/main.c:290:55: warning: incompatible implicit declaration of built-in function 'strlen' [-Wbuiltin-declaration-mismatch]
+  290 |           HAL_UART_Transmit(&huart2, (uint8_t *)str1, strlen(str1), 100);
+      |                                                       ^~~~~~
+../Core/Src/main.c:290:55: note: include '<string.h>' or provide a declaration of 'strlen'
+../Core/Src/main.c: In function 'highTaskFunc':
+../Core/Src/main.c:314:55: warning: incompatible implicit declaration of built-in function 'strlen' [-Wbuiltin-declaration-mismatch]
+  314 |           HAL_UART_Transmit(&huart2, (uint8_t *)str1, strlen(str1), 100);
+      |                                                       ^~~~~~
+../Core/Src/main.c:314:55: note: include '<string.h>' or provide a declaration of 'strlen'
+../Core/Src/main.c: In function 'lowTaskFunc':
+../Core/Src/main.c:341:55: warning: incompatible implicit declaration of built-in function 'strlen' [-Wbuiltin-declaration-mismatch]
+  341 |           HAL_UART_Transmit(&huart2, (uint8_t *)str1, strlen(str1), 100);
+      |                                                       ^~~~~~
+../Core/Src/main.c:341:55: note: include '<string.h>' or provide a declaration of 'strlen'
+arm-none-eabi-gcc -o "Semaphore.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Semaphore\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Semaphore.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: Semaphore.elf
+ 
+arm-none-eabi-size   Semaphore.elf 
+arm-none-eabi-objdump -h -S  Semaphore.elf  > "Semaphore.list"
+   text	   data	    bss	    dec	    hex	filename
+  21140	    104	  18416	  39660	   9aec	Semaphore.elf
+Finished building: default.size.stdout
+ 
+Finished building: Semaphore.list
+ 
+
+02:34:53 Build Finished. 0 errors, 4 warnings. (took 702ms)
+

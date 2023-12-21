@@ -1,0 +1,10 @@
+00:23:19 **** Incremental Build of configuration Debug for project FreeRTOS_Blinky_001 ****
+make -j16 all 
+arm-none-eabi-size   FreeRTOS_Blinky_001.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12584	    104	   6120	  18808	   4978	FreeRTOS_Blinky_001.elf
+Finished building: default.size.stdout
+ 
+
+00:23:20 Build Finished. 0 errors, 0 warnings. (took 379ms)
+

@@ -1,0 +1,10 @@
+01:57:07 **** Incremental Build of configuration Debug for project Counting_Semaphore ****
+make -j16 all 
+arm-none-eabi-size   Counting_Semaphore.elf 
+   text	   data	    bss	    dec	    hex	filename
+  21592	    116	  18428	  40136	   9cc8	Counting_Semaphore.elf
+Finished building: default.size.stdout
+ 
+
+01:57:07 Build Finished. 0 errors, 0 warnings. (took 396ms)
+

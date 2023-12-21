@@ -1,0 +1,126 @@
+2023-12-20 00:11:34,166 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-12-20 00:11:39,374 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 6751mS.
+2023-12-20 00:11:39,375 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-12-20 00:11:39,378 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-12-20 00:11:40,251 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2023-12-20 00:11:40,255 [INFO] ApiDb:448 - Save user favorites file C:\Users\vinee/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2023-12-20 00:11:40,255 [INFO] ApiDb:452 - User favorites MCUs=[]
+2023-12-20 00:18:10,945 [INFO] I2sManager:658 - 9.6E7
+2023-12-20 00:18:10,945 [INFO] I2sManager:195 - I2S Clock Value : 9.6E7
+2023-12-20 00:18:10,946 [INFO] I2sManager:553 - AudioClock : 8000Divider : 187Odd : 1
+2023-12-20 00:18:11,023 [INFO] I2sManager:658 - 9.6E7
+2023-12-20 00:18:11,023 [INFO] I2sManager:195 - I2S Clock Value : 9.6E7
+2023-12-20 00:18:11,023 [INFO] I2sManager:553 - AudioClock : 8000Divider : 187Odd : 1
+2023-12-20 00:20:22,095 [INFO] RtosManager:919 - Current active RTOS is FREERTOS [Cortex-M4NS]
+2023-12-20 00:20:22,735 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-12-20 00:20:22,818 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-12-20 00:21:12,629 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-12-20 00:22:19,944 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 583119824 Bytes (1073741824)
+2023-12-20 00:22:22,439 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 608285648 Bytes (1073741824)
+2023-12-20 00:22:26,212 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 699511760 Bytes (1073741824)
+2023-12-20 00:22:45,023 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 621811944 Bytes (1073741824)
+2023-12-20 00:22:46,724 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 647189216 Bytes (1073741824)
+2023-12-20 00:22:48,274 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 685986528 Bytes (1073741824)
+2023-12-20 00:22:48,529 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-12-20 00:22:48,529 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-12-20 00:22:48,529 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-12-20 00:22:48,529 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-12-20 00:22:48,529 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-12-20 00:22:48,530 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-12-20 00:22:48,531 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-12-20 00:22:48,695 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\license.tmp_save
+2023-12-20 00:22:48,865 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\license.tmp
+2023-12-20 00:22:48,951 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\gpio.tmp_save
+2023-12-20 00:22:49,154 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\gpio.tmp
+2023-12-20 00:22:49,315 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-12-20 00:22:49,336 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_inc.tmp_save
+2023-12-20 00:22:49,457 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_inc.tmp
+2023-12-20 00:22:49,477 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_vars.tmp_save
+2023-12-20 00:22:49,577 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_vars.tmp
+2023-12-20 00:22:49,591 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_pfp.tmp_save
+2023-12-20 00:22:49,688 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_pfp.tmp
+2023-12-20 00:22:49,702 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-12-20 00:22:49,801 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_obj_creat.tmp
+2023-12-20 00:22:49,813 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-12-20 00:22:49,909 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_kernelStart.tmp
+2023-12-20 00:22:49,925 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_default_thread.tmp_save
+2023-12-20 00:22:50,037 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_default_thread.tmp
+2023-12-20 00:22:50,056 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_threads.tmp_save
+2023-12-20 00:22:50,144 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_threads.tmp
+2023-12-20 00:22:50,158 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-12-20 00:22:50,168 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_inc.tmp_save
+2023-12-20 00:22:50,270 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_inc.tmp
+2023-12-20 00:22:50,277 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_vars.tmp_save
+2023-12-20 00:22:50,354 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_vars.tmp
+2023-12-20 00:22:50,361 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_pfp.tmp_save
+2023-12-20 00:22:50,443 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_pfp.tmp
+2023-12-20 00:22:50,460 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-12-20 00:22:50,539 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_obj_creat.tmp
+2023-12-20 00:22:50,546 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-12-20 00:22:50,624 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_kernelStart.tmp
+2023-12-20 00:22:50,630 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_default_thread.tmp_save
+2023-12-20 00:22:50,703 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_default_thread.tmp
+2023-12-20 00:22:50,709 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_threads.tmp_save
+2023-12-20 00:22:50,781 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\rtos_threads.tmp
+2023-12-20 00:22:50,802 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\Core\Inc\FreeRTOSConfig.h_save
+2023-12-20 00:22:50,938 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\Core\Inc\FreeRTOSConfig.h
+2023-12-20 00:22:50,964 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\Core\Src\freertos.c_save
+2023-12-20 00:22:51,113 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\Core\Src\freertos.c
+2023-12-20 00:22:51,136 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\Core\Src\stm32f4xx_it.c_save
+2023-12-20 00:22:51,395 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\Core\Src\stm32f4xx_it.c
+2023-12-20 00:22:51,402 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\Core\Inc\stm32f4xx_it.h_save
+2023-12-20 00:22:51,497 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\Core\Inc\stm32f4xx_it.h
+2023-12-20 00:22:51,521 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\Core\Src\stm32f4xx_hal_msp.c_save
+2023-12-20 00:22:51,693 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\Core\Src\stm32f4xx_hal_msp.c
+2023-12-20 00:22:51,700 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\system.tmp_save
+2023-12-20 00:22:51,786 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\MXTmpFiles\system.tmp
+2023-12-20 00:22:51,805 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2023-12-20 00:22:51,916 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\Core\Src\stm32f4xx_hal_timebase_tim.c
+2023-12-20 00:22:51,940 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-12-20 00:22:52,078 [INFO] CodeEngine:335 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\Core\Inc\stm32f4xx_hal_conf.h
+2023-12-20 00:22:52,138 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\Core\Inc\main.h_save
+2023-12-20 00:22:52,292 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\Core\Inc\main.h
+2023-12-20 00:22:52,314 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\Core\Src\main.c_save
+2023-12-20 00:22:52,487 [INFO] CodeEngine:279 - Generated code: C:\Users\vinee\STM32CubeIDE\workspace_1.13.1\Counting_Semaphore\Core\Src\main.c
+2023-12-20 00:22:53,208 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 264mS.
+2023-12-20 00:22:53,214 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-12-20 00:22:53,557 [INFO] ConfigFileManager:1457 - The Die is : DIE413
+2023-12-20 00:22:55,484 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 2270mS.
+2023-12-20 00:22:55,486 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 2mS.
+2023-12-20 00:22:55,492 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-12-20 02:10:06,479 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Unexpected error loading extension: org.eclipse.equinox.p2.artifact.repository.compositeRepository
+2023-12-20 02:10:06,483 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] java.lang.IllegalStateException: Attempt to access stopped agent: org.eclipse.equinox.internal.p2.core.ProvisioningAgent@17f2e200
+2023-12-20 02:10:06,485 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.core.ProvisioningAgent.checkRunning(ProvisioningAgent.java:86)
+2023-12-20 02:10:06,488 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.core.ProvisioningAgent.getService(ProvisioningAgent.java:50)
+2023-12-20 02:10:06,489 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.p2.core.IProvisioningAgent.getService(IProvisioningAgent.java:86)
+2023-12-20 02:10:06,493 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.restoreSpecialRepositories(ArtifactRepositoryManager.java:151)
+2023-12-20 02:10:06,498 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.restoreRepositories(AbstractRepositoryManager.java:1032)
+2023-12-20 02:10:06,502 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.removeRepository(AbstractRepositoryManager.java:946)
+2023-12-20 02:10:06,505 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:701)
+2023-12-20 02:10:06,508 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+2023-12-20 02:10:06,512 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+2023-12-20 02:10:06,514 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+2023-12-20 02:10:06,517 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+2023-12-20 02:10:06,520 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+2023-12-20 02:10:06,523 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+2023-12-20 02:10:06,526 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+2023-12-20 02:10:06,529 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:787)
+2023-12-20 02:10:06,531 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:685)
+2023-12-20 02:10:06,534 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+2023-12-20 02:10:06,536 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+2023-12-20 02:10:06,539 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedRepository(ProvisioningContext.java:189)
+2023-12-20 02:10:06,541 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedArtifactRepositories(ProvisioningContext.java:163)
+2023-12-20 02:10:06,543 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.p2.engine.ProvisioningContext.getArtifactRepositories(ProvisioningContext.java:149)
+2023-12-20 02:10:06,545 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.engine.DownloadManager.getArtifactRepositories(DownloadManager.java:110)
+2023-12-20 02:10:06,547 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.engine.DownloadManager.start(DownloadManager.java:95)
+2023-12-20 02:10:06,550 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.engine.phases.Collect.completePhase(Collect.java:111)
+2023-12-20 02:10:06,551 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.engine.Phase.postPerform(Phase.java:254)
+2023-12-20 02:10:06,553 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.engine.Phase.perform(Phase.java:105)
+2023-12-20 02:10:06,554 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.engine.PhaseSet.perform(PhaseSet.java:50)
+2023-12-20 02:10:06,556 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:80)
+2023-12-20 02:10:06,557 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:48)
+2023-12-20 02:10:06,559 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.p2.operations.ProvisioningSession.performProvisioningPlan(ProvisioningSession.java:181)
+2023-12-20 02:10:06,561 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.p2.operations.ProfileModificationJob.runModal(ProfileModificationJob.java:76)
+2023-12-20 02:10:06,562 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:188)
+2023-12-20 02:10:06,564 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-12-20 02:10:06,650 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
