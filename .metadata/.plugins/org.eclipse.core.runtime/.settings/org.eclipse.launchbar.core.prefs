@@ -11,6 +11,7 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:FreeRTOS_102/activeLaunchMode=d
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:FreeRTOS_102/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:FreeRTOS_Blinky_001\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:FreeRTOS_Blinky_001\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Mutex\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Semaphore\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Semaphore\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:SimpleQueue\ Debug/activeLaunchMode=debug
