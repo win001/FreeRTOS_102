@@ -1,0 +1,10 @@
+04:32:25 **** Incremental Build of configuration Debug for project StructureQueue ****
+make -j16 all 
+arm-none-eabi-size   StructureQueue.elf 
+   text	   data	    bss	    dec	    hex	filename
+  24112	    104	  18440	  42656	   a6a0	StructureQueue.elf
+Finished building: default.size.stdout
+ 
+
+04:32:26 Build Finished. 0 errors, 0 warnings. (took 379ms)
+
